@@ -23,7 +23,7 @@ I'm Software Developer<br/><br/>
 
 <p align="center">
     <a href="https://instagram.com/umtynkk"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23777BB4.svg?logo=instagram&logoColor=white"></a>
-    <a href="https://github.com/umtynkk"><img alt="Github" src="https://img.shields.io/badge/Instagram-%2314354C.svg?logo=github&logoColor=white"></a>
+    <a href="https://github.com/umtynkk"><img alt="Github" src="https://img.shields.io/badge/Github-%2314354C.svg?logo=github&logoColor=white"></a>
 </p>
 <br>
 <br>
